@@ -1,0 +1,11 @@
+
+h1{
+	border-bottom: 7px solid #ff6600;
+	background-color: #f4f4f4;
+}
+h2{
+	font-size: 1.7rem;
+    overflow-y: hidden;
+    font-family: "Raleway", sans-serif;
+    color: #2c99ce;
+}
